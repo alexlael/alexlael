@@ -1,14 +1,14 @@
 # 👋 Hello, welcome to my GitHub profile!
 
 ### 🌟 About Me  
-Hi! My name is **Alex Lael**, and I’m currently in an exciting career transition. After **6 years working in the Networking field** at one of Brazil’s largest internet providers, I decided to follow a new passion: **Software Development**.
+Hi! My name is **Alex Lael**, and I’m currently going through an exciting career transformation. After **6 years working in the networking field** at one of Brazil’s largest internet providers, I decided to pursue a new passion: **Software Development**.
 
-I’m currently studying **Software Engineering** and dedicating myself to continuous learning to become a **Fullstack Developer**. My journey includes practical and theoretical studies, building personal projects, and an eagerness to grow in this new field. 🚀
+I’m currently a **Software Engineering student**, studying consistently since February 2025, with the goal of becoming a **Fullstack Developer**. My learning journey includes building real projects, diving into backend and frontend technologies, and working with modern tools like Docker and Prisma. 🚀
 
 ---
 
 ### 🚀 Goal  
-To establish myself as a fullstack developer, combining my experience in networking and infrastructure with development skills to create innovative and scalable solutions.
+To establish myself as a fullstack developer, combining my strong background in infrastructure and networking with development skills to build robust, scalable, and efficient systems.
 
 ---
 
@@ -28,38 +28,41 @@ Here are some of the technologies I’m learning and working with:
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-#### 🛠️ Tools & Others  
+#### ⚙️ DevOps & Tools  
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-### 📚 Currently Studying  
-- **Data Structures and Algorithms**  
-- **Frameworks like Next.js**  
-- **RESTful API Development**  
-- **Relational and Non-Relational Databases**  
-- **Cloud Computing and DevOps**  
+### 📚 Currently Learning  
+- **Authentication and Authorization with JWT**
+- **Advanced API development using Node.js and TypeScript**
+- **ORM with Prisma and relational data modeling**
+- **Docker and containerized environments (Dockerfile & docker-compose)**
+- **Frontend frameworks like React and Next.js**
+- **Data structures and algorithms**
 
 ---
 
-### 🌟 Networking Experience  
-My background in networking gives me a unique perspective on infrastructure and connectivity. Working at one of Brazil’s largest internet providers taught me how to solve complex problems and handle high-scale, high-performance systems.
+### 🌐 Networking Background  
+My experience in networking provides a strong foundation in infrastructure and connectivity. Working at one of Brazil’s largest ISPs taught me how to troubleshoot effectively, build resilient systems, and stay calm under pressure—skills I now apply to the world of software engineering.
 
 ---
 
 ### 📫 Let’s Connect!  
-If you’d like to follow my journey or exchange ideas, feel free to contact me:  
+If you'd like to follow my journey or exchange ideas, feel free to reach out:
 
 - 📧 Email: [falacomigo@oalex.dev](mailto:falacomigo@oalex.dev)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-torres-9bb107141/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-torres-9bb107141/)
 
 ---
 

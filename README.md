@@ -1,30 +1,24 @@
-# 👋 Hello, welcome to my GitHub profile!
+# 👋 Alex Lael
 
-### 🌟 About Me  
-Hi! My name is **Alex Lael**, and I’m currently going through an exciting career transformation. After **6 years working in the networking field** at one of Brazil’s largest internet providers, I decided to pursue a new passion: **Software Development**.
+### Software Engineering Student | DevOps & Observability (in transition)
 
-I’m currently a **Software Engineering student**, studying consistently since February 2025, with the goal of becoming a **Fullstack Developer**. My learning journey includes building real projects, diving into backend and frontend technologies, and working with modern tools like Docker and Prisma. 🚀
+I’m currently transitioning into DevOps and automation after 6 years working in networking and infrastructure at one of Brazil’s largest internet providers.
+
+My focus is on combining software development with infrastructure, working with containers, monitoring, backend services and automation to build reliable and scalable systems.
 
 ---
 
-### 🚀 Goal  
-To establish myself as a fullstack developer, combining my strong background in infrastructure and networking with development skills to build robust, scalable, and efficient systems.
+#### 📜 Certifications  
+<p>
+  <img src="https://i.ibb.co/k64wd1ZY/lpic-2.png" alt="LPIC-2" width="120" />
+  <img src="https://i.ibb.co/HTv70BXv/lpic-1.png" alt="LPIC-1" width="120" />
+  <img src="https://i.ibb.co/cK27nmpW/itil-foundation.png" alt="ITIL 4 Foundation" width="120" />
+  <img src="https://i.ibb.co/fVdx8bzR/itil-cds.png" alt="ITIL 4 CDS" width="120" />
+</p>
 
 ---
 
 ### 💻 Tech Stack  
-
-Here are some of the technologies I’m learning and working with:
-
-#### 🌐 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
 
 #### 🔧 Backend  
 <p>
@@ -34,6 +28,21 @@ Here are some of the technologies I’m learning and working with:
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+#### 🤖 Data & Automation  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+</p>
+
+#### 📊 Monitoring & Observability  
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 #### ⚙️ DevOps & Tools  
@@ -46,17 +55,31 @@ Here are some of the technologies I’m learning and working with:
 
 ---
 
-### 🌐 Networking Background  
-My experience in networking provides a strong foundation in infrastructure and connectivity. Working at one of Brazil’s largest ISPs taught me how to troubleshoot effectively, build resilient systems, and stay calm under pressure—skills I now apply to the world of software engineering.
+### 🎯 Current Focus
+
+- Backend development with Node.js, TypeScript and FastAPI  
+- Automation with Python (Selenium, Playwright)  
+- Monitoring and observability with Zabbix and Grafana  
+- Containerization and infrastructure with Docker and Linux  
 
 ---
 
-### 📫 Let’s Connect!  
-If you'd like to follow my journey or exchange ideas, feel free to reach out:
+### 📦 Observability Projects
+
+- Zabbix Module: Custom template/module for monitoring infrastructure *(add link here)*  
+- Experience building dashboards and monitoring workflows using Grafana  
+
+---
+
+### 🌐 Networking Background
+
+My background in networking gave me strong experience in troubleshooting, infrastructure, connectivity and operational reliability.  
+
+These skills directly influence how I approach software development today, focusing on system reliability, observability and real-world operational scenarios.
+
+---
+
+### 📫 Let’s Connect
 
 - 📧 Email: [falacomigo@oalex.dev](mailto:falacomigo@oalex.dev)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-torres-9bb107141/)
-
----
-
-⚡ **"Learn, build, and grow."**

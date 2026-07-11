@@ -4,24 +4,26 @@
 
 I’m currently transitioning into DevOps and automation after 6 years working in networking and infrastructure at one of Brazil’s largest internet providers.
 
-My focus is on combining software development with infrastructure, working with containers, monitoring, backend services and automation to build reliable and scalable systems.
+My focus is on combining software development with infrastructure, working with containers, cloud, monitoring and automation to build reliable and scalable systems.
 
 ---
 
-#### 📜 Certifications  
+#### 📜 Certifications
+
 <p>
   <img src="https://i.ibb.co/k64wd1ZY/lpic-2.png" alt="LPIC-2" width="120" />
   <img src="https://i.ibb.co/HTv70BXv/lpic-1.png" alt="LPIC-1" width="120" />
   <img src="https://i.ibb.co/cK27nmpW/itil-foundation.png" alt="ITIL 4 Foundation" width="120" />
   <img src="https://i.ibb.co/fVdx8bzR/itil-cds.png" alt="ITIL 4 CDS" width="120" />
-  <img src="https://i.ibb.co/LzPGYY3w/1-n-MF1-Jn-RMmed1v3-YDh-Wn-HDQ.png" alt="Microsoft Certified: Azure Administrator Associate(AZ-104)" width="120" />
+  <img src="https://i.ibb.co/LzPGYY3w/1-n-MF1-Jn-RMmed1v3-YDh-Wn-HDQ.png" alt="Microsoft Certified: Azure Administrator Associate (AZ-104)" width="120" />
 </p>
 
 ---
 
-### 💻 Tech Stack  
+### 💻 Tech Stack
 
-#### 🔧 Backend  
+#### 🔧 Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
@@ -33,22 +35,27 @@ My focus is on combining software development with infrastructure, working with 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-#### 🤖 Data & Automation  
+#### 🤖 Data & Automation
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
-#### 📊 Monitoring & Observability  
+#### 📊 Monitoring & Observability
+
 <p>
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
-#### ⚙️ DevOps & Tools  
+#### ⚙️ DevOps & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -58,23 +65,27 @@ My focus is on combining software development with infrastructure, working with 
 
 ### 🎯 Current Focus
 
-- Backend development with Node.js, TypeScript and FastAPI  
-- Automation with Python (Selenium, Playwright)  
-- Monitoring and observability with Zabbix and Grafana  
-- Containerization and infrastructure with Docker and Linux  
+- DevOps and Site Reliability Engineering (SRE)
+- Cloud infrastructure and architecture
+- Infrastructure as Code with Terraform
+- CI/CD pipelines and workflow automation
+- Monitoring and observability with Zabbix and Grafana
+- Containerization and orchestration
+- Linux infrastructure and system administration
+- Automation with Python
 
 ---
 
 ### 📦 Observability Projects
 
-- Zabbix Module: Custom template/module for monitoring infrastructure *(add link here)*  
-- Experience building dashboards and monitoring workflows using Grafana  
+- 🔥 [Zabbix Item Heatmap Widget](https://github.com/alexlael/zabbix-item-heatmap-widget) — Custom heatmap widget for dynamically visualizing Zabbix item status and monitoring data
+- Experience building dashboards and monitoring workflows using Zabbix and Grafana
 
 ---
 
 ### 🌐 Networking Background
 
-My background in networking gave me strong experience in troubleshooting, infrastructure, connectivity and operational reliability.  
+My background in networking gave me strong experience in troubleshooting, infrastructure, connectivity and operational reliability.
 
 These skills directly influence how I approach software development today, focusing on system reliability, observability and real-world operational scenarios.
 
@@ -82,5 +93,5 @@ These skills directly influence how I approach software development today, focus
 
 ### 📫 Let’s Connect
 
-- 📧 Email: [falacomigo@oalex.dev](mailto:falacomigo@oalex.dev)  
+- 📧 Email: [falacomigo@oalex.dev](mailto:falacomigo@oalex.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-torres-9bb107141/)

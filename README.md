@@ -14,7 +14,7 @@ My focus is on combining software development with infrastructure, working with 
   <img src="https://i.ibb.co/HTv70BXv/lpic-1.png" alt="LPIC-1" width="120" />
   <img src="https://i.ibb.co/cK27nmpW/itil-foundation.png" alt="ITIL 4 Foundation" width="120" />
   <img src="https://i.ibb.co/fVdx8bzR/itil-cds.png" alt="ITIL 4 CDS" width="120" />
-  <img src="https://i.ibb.co/v4fMhyLR/image.png" alt="Microsoft Certified: Azure Administrator Associate(AZ-104)" width="120" />
+  <img src="https://i.ibb.co/LzPGYY3w/1-n-MF1-Jn-RMmed1v3-YDh-Wn-HDQ.png" alt="Microsoft Certified: Azure Administrator Associate(AZ-104)" width="120" />
 </p>
 
 ---
